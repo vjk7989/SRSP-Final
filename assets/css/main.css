@@ -976,6 +976,8 @@ section,
   animation: animate-loading 1s linear infinite;
 }
 
+
+
 .get-started .php-email-form input[type=text],
 .get-started .php-email-form input[type=email],
 .get-started .php-email-form textarea {
